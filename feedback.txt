@@ -1,0 +1,20 @@
+chair is left to pottedplant
+
+chair is left to vase
+
+chair and bowl are in front of you
+
+chair and diningtable are in front of you
+
+pottedplant is right to vase
+
+pottedplant is right to bowl
+
+pottedplant and diningtable are in front of you
+
+vase is right to bowl
+
+vase and diningtable are in front of you
+
+bowl and diningtable are in front of you
+
